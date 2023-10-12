@@ -125,7 +125,7 @@ if(b1.getLabel().equals("1")&&b2.getLabel().equals("2")&&b3.getLabel().equals("3
 JOptionPane.showMessageDialog(puzzle.this,"!!!you won!!!");
 }
  }//end of if
-
+ 
 }//end of actionPerformed
  
 public static void main(String[] args){
