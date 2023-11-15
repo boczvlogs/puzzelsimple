@@ -13,7 +13,7 @@ super("puzzle game");
  b6=new JButton("6");
  b7=new JButton("7");
  b8=new JButton("8");
- b9=new JButton("2");
+ b9=new JButton("2"); 
  next=new JButton("next");
  
 b1.setBounds(10,30,50,40);
