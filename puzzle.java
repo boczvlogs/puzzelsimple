@@ -20,7 +20,7 @@ b1.setBounds(10,30,50,40);
 b2.setBounds(70,30,50,40);
 b3.setBounds(130,30,50,40);
 b4.setBounds(10,80,50,40);
-b5.setBounds(70,80,50,40);
+b5.setBounds(70,80,50,40); 
 b6.setBounds(130,80,50,40);
 b7.setBounds(10,130,50,40);
 b8.setBounds(70,130,50,40);
