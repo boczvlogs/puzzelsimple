@@ -133,6 +133,5 @@ new puzzle();
 }//end of main
 
 }//end of class
-//AGOO INC. 
 
 //Agoo Inc 2024 v1.10
