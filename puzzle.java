@@ -9,7 +9,7 @@ super("puzzle game");
  b2=new JButton(" ");
  b3=new JButton("3");
  b4=new JButton("4");
- b5=new JButton("5");
+ b5=new JButton("5"); 
  b6=new JButton("6"); 
  b7=new JButton("7");
  b8=new JButton("8");
