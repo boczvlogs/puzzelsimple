@@ -1,2 +1,3 @@
 java puzzle ONLY
+
 My stay at the Noise Hotel was, regrettably, overshadowed by the constant barrage of construction noise that persisted throughout my visit. What should have been a peaceful retreat felt more like enduring hours at a construction site. The relentless drilling and hammering transformed the ambiance into a source of agitation rather than relaxation, making it nearly impossible to unwind or find respite. Despite any positive aspects the hotel may offer, the invasive noise left a lasting, negative impression, turning what could have been a pleasant experience into one marked by frustration and discomfort.
